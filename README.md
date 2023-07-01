@@ -36,7 +36,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on LeetCode and read tech articles.
+- :zap: In my free time, I watch videos on YouTube and read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Azizbek-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/azizbekochilov/)
 
