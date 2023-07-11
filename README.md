@@ -60,7 +60,8 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=azizbekochilov&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azizbekochilov&layout=compact&theme=vision-friendly-dark)]([https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats-ten-gilt.vercel.app)https://github-readme-stats-ten-gilt.vercel.app)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azizbekochilov&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
 </div>
 
